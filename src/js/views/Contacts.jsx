@@ -17,7 +17,7 @@ const Contacts = () => {
         <div className="w-75 mx-auto">
             <div className="d-flex justify-content-end">
                 <Link to="/AddContact">
-                    <button className="btn btn-success">Add New contact</button>
+                    <button className="btn btn-success">Añadir nuevo contacto</button>
                 </Link>
             </div>
             <ul className="list-group mt-3">

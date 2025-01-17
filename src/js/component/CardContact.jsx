@@ -52,8 +52,8 @@ const CardContact = ({ contact }) => {
                                     If you delete this thing the etire universe will go down!
                                 </div>
                                 <div className="modal-footer">
-                                    <button type="button" className="btn btn-primary" data-bs-dismiss="modal">Oh no!</button>
-                                    <button type="button" className="btn btn-secondary" data-bs-dismiss="modal" onClick={eliminarContacto}>Yes baby!</button>
+                                    <button type="button" className="btn btn-primary" data-bs-dismiss="modal">No</button>
+                                    <button type="button" className="btn btn-secondary" data-bs-dismiss="modal" onClick={eliminarContacto}>Si</button>
                                 </div>
                             </div>
                         </div>
